@@ -9,8 +9,9 @@ Learning Python with engineering-related examples.
 
 ## Recommendations
 I recommend you either download and install:
-1. Anaconda (http://continuum.io/downloads): a Python distribution that includes all the essential engineering/science Python packages
-2. Miniconda (http://repo.continuum.io/miniconda/): the bare essentials (Python + ``conda``, the Python package manager)
+
+1. [Anaconda](http://continuum.io/downloads): a Python distribution that includes all the essential engineering/science Python packages
+2. [Miniconda](http://repo.continuum.io/miniconda/): the bare essentials (Python + ``conda``, the Python package manager)
 
 If you use Miniconda, you'll want to install:
 - Numpy
@@ -18,4 +19,4 @@ If you use Miniconda, you'll want to install:
 - Matplotlib
 - iPython
 
-which can be install using ``conda install numpy scipy matplotlib ipython``.
+which can be installed using ``conda install numpy scipy matplotlib ipython``.
