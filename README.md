@@ -1,22 +1,5 @@
 # Python Tutorials
-Learning Python with engineering-related examples.
+Tutorials related to using Python, both in a general sense and as applied to projects with a Beaglebone Black.
 
 ## Requirements
-- Python 2.6 or 2.7
-- NumPy
-- Matplotlib
-- iPython
-
-## Recommendations
-I recommend you either download and install:
-
-1. [Anaconda](http://continuum.io/downloads): a Python distribution that includes all the essential engineering/science Python packages
-2. [Miniconda](http://repo.continuum.io/miniconda/): the bare essentials (Python + ``conda``, the Python package manager)
-
-If you use Miniconda, you'll want to install:
-- Numpy
-- Scipy
-- Matplotlib
-- iPython
-
-which can be installed using ``conda install numpy scipy matplotlib ipython``.
+- Python 2.7
