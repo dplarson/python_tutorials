@@ -15,3 +15,6 @@ The easiest way to install Python and the above packages is using Anaconda, a fr
 If you need more info, see:
 - http://docs.continuum.io/anaconda/install.html
 - http://docs.continuum.io/anaconda-launcher/index.html
+
+## Sources
+- beam bending image: http://upload.wikimedia.org/wikipedia/commons/1/10/Beam_bending.png
