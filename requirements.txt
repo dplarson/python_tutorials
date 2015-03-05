@@ -3,8 +3,8 @@
 # platform: osx-64
 dateutil=2.1=py27_2
 freetype=2.4.10=1
-ipython=3.0.0=py27_0
-ipython-notebook=3.0.0=py27_1
+ipython=2.4.1=py27_0
+ipython-notebook=2.4.1=py27_0
 jinja2=2.7.3=py27_1
 jsonschema=2.4.0=py27_0
 libpng=1.5.13=1
@@ -23,7 +23,7 @@ python.app=1.2=py27_3
 pytz=2014.9=py27_0
 pyzmq=14.5.0=py27_0
 readline=6.2=2
-setuptools=12.3=py27_0
+setuptools=12.4=py27_0
 six=1.9.0=py27_0
 sqlite=3.8.4.1=0
 ssl_match_hostname=3.4.0.2=py27_0
