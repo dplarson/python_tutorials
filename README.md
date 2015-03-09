@@ -44,7 +44,7 @@ Also, iPython Notebook has several helpful features built-in, such as:
 - [PyCharm](http://www.jetbrains.com/pycharm/): a standalone Python IDE
 - [PyDev](http://pydev.org/): a Python IDE for Eclipse
 
-### Is Python the best for <ambiguously described project>?
+### Is Python the best for {ambiguously described project}?
 TL;DR: it depends.
 
 Without knowing all the details of a project, it's tough to say whether Python is the best choice. For example, a common criticism of Python is that it is too slow for computationally intensive projects (e.g. image processing). But Python can be extremeley fast if you are able use vectorized calculations (via numpy) or re-write slow parts of a program in C (via Cython).
