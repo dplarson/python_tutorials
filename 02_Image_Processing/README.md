@@ -1,14 +1,29 @@
 # Image Processing
 
 ## Requirements
-- opencv
+- python 2.7
+- ipython-notebook
+- numpy
+- matplotlib
+- scipy
+- pillow
 
-## Demo application
-- percentage of pepperoni on a pizza
-    - import image of a pizza
-    - convert image to 3D array (3 layers: red, green, blue)
-    - pepperoni is going to be red => calculate number of pixels with lots of red and compare to the total number of pixels
-- detect object in an image
-    - go with something simple (e.g. a green ball)
-    - include some parameters that can be tweaked (for students to play with)
-    - maybe progress to running the detection on multiple images and adding an outline to the identified objects
+## Outline
+- load images with `scipy.ndimage`
+- display images with `matplotlib`
+- crop images
+- index images (e.g. select the red color channel from a color image)
+- filter images
+
+## Images
+- satellite.png
+    - source: NOAA GOES-WEST satellite
+    - URL: http://www.wrh.noaa.gov/satellite/?wfo=sgx
+- husky.jpg
+    - source: /u/rickydlam from /r/aww
+    - URL: https://www.reddit.com/r/aww/comments/1lompf/reddit_maya_maya_derp_mayas_my_roommates_dog_but/
+- sensor.jpg
+    - source: David Larson
+- ocean.jpg
+    - source: sample image from Planet Labs' satellites showing the coast of Sumatra, Indonesia
+    - URL: https://www.planet.com/gallery/
