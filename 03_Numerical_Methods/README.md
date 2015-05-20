@@ -1,12 +1,8 @@
-# Numerical Methods
+# Numerical integration with Python
+Learn how to perform numerical integration (using Python) for engineering applications.
 
 ## Requirements
+- python 2.7
+- ipython-notebook
 - numpy
-- scipy
-
-## Demo application
-- something related to heat transfer (maybe fluids or mass transfer)
-- solve some sort of simple, but common problem
-- compare to analytical or experimental results (provide students with data)
-- tweak parameters and compare (e.g. grid size and time step)
-- go from just solving a problem => using results to make an engineering decision
+- matplotlib
